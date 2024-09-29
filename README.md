@@ -75,4 +75,3 @@ $ react-native run-ios
 - [Tinshu Sasi](mailto:thetinshusasi@gmail.com)
 
   [![Linkedin: tinshu-sasi](https://img.shields.io/badge/-Tinshu%20Sasi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tinshu-sasi-320899142/)](https://www.linkedin.com/in/tinshu-sasi-320899142/)
-  [![GitHub Tinshu]](https://github.com/thetinshusasi)
