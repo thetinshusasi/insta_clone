@@ -56,7 +56,7 @@
 On the command prompt run the following commands
 
 ```sh
-$ git clone https://github.com/Doha26/InstagramClone.git
+$ git clone https://github.com/thetinshusasi/insta_clone.git
 
 $ cd InstagramClone
 
